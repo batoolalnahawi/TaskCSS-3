@@ -1,0 +1,74 @@
+*{
+    margin:0;
+}
+
+h2{
+    text-transform: capitalize;
+    margin:20px 50px;
+}
+
+.div{
+    margin:20px
+}
+
+.item{
+    border: 1px solid ;
+    float:left;
+    width:20%;
+    margin:5px;
+    
+}
+
+.img{
+    padding: 10px;
+    text-align: center;
+   
+}
+img{
+    width:95%;
+}
+.bb{
+    font-weight: bold;
+    margin-left: 20px;
+}
+.p{
+    margin-left: 20px;
+    font-size: 15px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:10px;
+}
+.green{
+    color:green;
+    width:50;
+    float:left;
+    margin-left: 20px;
+}
+.red{
+    color:red;
+    text-decoration-line: line-through;
+    font-size:small;
+    width:50%;
+    margin-left: 20px;
+}
+.button{
+margin:10px;
+}
+.button1{
+    width:80%;
+    height:40px;
+    background-color: royalblue;
+    color:white;
+    border-color: royalblue;
+}
+.button2{
+    width:15%;
+    height:40px;
+    color:royalblue;
+    border-color: royalblue;
+    background-color: white;
+    font-size:large;
+}
+.clearfix{ 
+    clear:both;
+}
